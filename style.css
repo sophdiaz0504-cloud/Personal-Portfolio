@@ -1,1 +1,14 @@
+body {
+  background: #C5E1A5;
+  border: 15px dotted #81C784;
+  margin: 0.7rem;
+  padding: 0.5rem;
+}
 
+header {
+  background: #81C784;
+  border: dotted #43A047;
+  border-radius: 40px;
+  margin: 1.5rem;
+  padding: 0.1rem;
+}
